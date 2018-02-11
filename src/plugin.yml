@@ -1,0 +1,13 @@
+name: AutoRestart
+main: top.karpvp.function.autorestart.Main
+version: 1.0.0
+author: LSeng
+commands:
+  rstart:
+    description: restart
+    permission: kar.admin
+    permission-message: 没有权限
+  delay:
+    description: delay
+    permission: kar.admin
+    permission-message: 没有权限

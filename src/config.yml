@@ -1,0 +1,7 @@
+#这里指的是秒，如 time: 3600，就是3600秒，60分钟，1小时
+#here is second. for example,time:3600 .it means 3600 seconds 、 60 minutes 、 1 hour
+time: 3600
+
+#重启时传送到哪个服务器去(Bungeecord)
+#What server does player teleport when the server restart(Bungeecord)
+Server: 'LoginServer'
